@@ -1,0 +1,13 @@
+metric,value
+raw_metadata_samples,6872
+main_analysis_samples,616
+pca_snps,33906
+neolithic_samples,98
+bronze_age_samples,103
+iron_age_samples,231
+early_medieval_samples,172
+neolithic_mean_pc1,-30.69
+bronze_age_mean_pc1,7.77
+main_kmeans_clusters,2
+post_neolithic_outlier_cluster_size,3
+main_conclusion,"Strong Neolithic versus later genetic structure, with weaker and more continuous post-Neolithic differentiation."

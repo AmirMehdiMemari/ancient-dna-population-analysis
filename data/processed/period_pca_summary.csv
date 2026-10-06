@@ -1,0 +1,9 @@
+period,samples,median_PC1,mean_PC1,std_PC1,earliest_year,latest_year
+Mesolithic,1,-7.0,-7.0,,-8330,-8330
+Neolithic,98,-32.59,-30.69,5.56,-3831,-2483
+Bronze Age,103,7.77,7.77,3.71,-2383,-851
+Iron Age,231,4.98,5.08,2.46,-662,125
+Roman,2,5.69,5.69,2.96,-31,164
+Transitional / Mixed,6,2.4,1.97,5.27,100,200
+Early Medieval,172,5.91,5.99,2.7,361,1094
+Medieval,3,-3.76,-4.13,2.22,1182,1182
